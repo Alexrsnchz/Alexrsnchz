@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Readme banner" />
+
 ## Hi there 👋
 
 ## ⚙️ Technologies I use
