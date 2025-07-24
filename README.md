@@ -2,7 +2,11 @@
 
 ## 👋 Hi, I'm Alex
 
-I'm a full stack web developer with a 
+I'm a full stack web developer who cares deeply about performance and aesthetics.  
+I love building fast, responsive, and visually clean interfaces — but I'm just as happy designing APIs that make everything run smoothly under the hood.
+
+While my heart leans toward the frontend, I enjoy tackling the full stack and understanding how every piece fits together.  
+Clean code, smooth UX, and efficient systems — that’s the kind of work I aim for.
 
 ## ⚙️ Technologies I use
 
