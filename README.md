@@ -1,6 +1,8 @@
 ![Header](./banner.png)
 
-## Hi there 👋
+## 👋 Hi, I'm Alex
+
+I'm a full stack web developer with a 
 
 ## ⚙️ Technologies I use
 
