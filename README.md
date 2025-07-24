@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Readme banner" />
+![Header](./Banner.png)
 
 ## Hi there 👋
 
