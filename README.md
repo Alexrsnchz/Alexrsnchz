@@ -2,11 +2,16 @@
 
 ## 👋 Hi, I'm Alex
 
-I'm a full stack web developer who cares deeply about performance and aesthetics.  
-I love building fast, responsive, and visually clean interfaces — but I'm just as happy designing APIs that make everything run smoothly under the hood.
+I'm a full stack web developer who likes to create things, whether it's an e-commerce or an app full of functionality.
+My main focus is performance, aesthetics, and making sure my code remains clean and follows best practices.
 
-While my heart leans toward the frontend, I enjoy tackling the full stack and understanding how every piece fits together.  
-Clean code, smooth UX, and efficient systems — that’s the kind of work I aim for.
+While I prefer frontend development (choosing colors, designing layouts, adding animations, etc...) I also enjoy creating complete APIs 
+and implementing security features.
+
+- 📚 Currently learning unit and end-to-end testing.
+- 📌 My prefered framework at the moment is Spring Boot.
+- 🌐 Actively looking for remote opportunities and open to working abroad.
+- ⚡️ Fun fact - I'm fairly good at cooking 🥘.
 
 ## ⚙️ Technologies I use
 
