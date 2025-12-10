@@ -9,7 +9,7 @@ While I prefer frontend development (choosing colors, designing layouts, adding 
 and implementing security features.
 
 - 📚 Currently learning desktop development with Electron.
-- 📌 My prefered framework at the moment is Express.
+- 📌 My preferred framework at the moment is Express.
 - 🌐 Actively looking for remote opportunities and open to working abroad.
 
 ## ⚙️ Technologies I use
